@@ -1,0 +1,2 @@
+# Ignore all Sphinx build artifacts
+docs/_build/*
