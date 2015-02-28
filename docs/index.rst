@@ -14,6 +14,7 @@ See the `Finch robot webpage`_ for general information about the Finch robot.
    :numbered:
 
    introduction/index
+   scratch/index
 
 .. These are hyperlink definitions used in the document above
 .. _CoderDojo Twin Cities': http://www.coderdojotc.org/
