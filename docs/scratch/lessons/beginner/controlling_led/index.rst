@@ -6,7 +6,7 @@ Controlling the LED
 Light up a single color
 =======================
 
-The finch has a Light Emitting Diode (LED) in its nose (see :ref:`finch-actuators-description`
+The Finch has a Light Emitting Diode (LED) in its nose (see :ref:`finch-actuators-description`
 for more information).  In this lesson, we will learn how to light up the Finch LED in any color
 we like!
 
@@ -90,3 +90,12 @@ turn off its LED when you press the "space" key?
 
 Hint:  You will need to add three more "When [key] pressed" blocks, select the correct keys
 for each block, and connect a "Finch LED" block to each one.  Ask a mentor if you need help.
+
+===============
+Other Resources
+===============
+
+You can find RGB values for colors on various web pages.  Try 
+`this page <http://www.rapidtables.com/web/color/RGB_Color.htm>`_ for example.  
+That page has a color picker that allows you to pick a color and then view its
+red, green, and blue values.
