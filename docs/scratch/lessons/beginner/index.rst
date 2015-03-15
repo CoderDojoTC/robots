@@ -9,3 +9,4 @@ beginners.
    :maxdepth: 2
 
    controlling_led/index
+   controlling_buzzer/index
