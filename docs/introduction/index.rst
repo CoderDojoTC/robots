@@ -39,6 +39,8 @@ Accelerometers
 	means it can tell you whether the Finch is upside down, or tilted in any direction.
 	This sensor can also tell you if the Finch is shaken or tapped.
 
+.. _finch-actuators-description:
+
 =====================
 The Finch's actuators
 =====================

@@ -70,7 +70,7 @@ How BirdBrain Robot Server works
 
 The BirdBrain robot server is only required for programming the Finch robot in Scratch
 or Snap.  Its job is to receive requests from Scratch or Snap and send the correct commands
-to the Finch Robot.
+to the Finch Robot over USB.
 
 .. image:: ./images/birdbrain_diagram.png
    :alt: BirdBrain communication diagram

@@ -11,5 +11,7 @@ more information.
    :numbered:
 
    setup
+   lessons/beginner/index
+
 
 .. _Scratch home page: https://scratch.mit.edu/
