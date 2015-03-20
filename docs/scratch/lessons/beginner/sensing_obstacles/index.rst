@@ -2,6 +2,8 @@
 Sensing Obstacles
 *****************
 
+.. _reading-obstacle-sensors:
+
 ==============================
 Reading obstacle sensor values
 ==============================

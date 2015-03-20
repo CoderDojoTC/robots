@@ -11,3 +11,4 @@ beginners.
    controlling_led/index
    controlling_buzzer/index
    sensing_obstacles/index
+   controlling_wheels/index
