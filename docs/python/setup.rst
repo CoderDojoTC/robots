@@ -60,7 +60,7 @@ Option 2 (Harder): Use Terminal Application
 	Use "cd" (Mac OSX) or "CD" (Windows) to change directories in these programs.  For example,
 	in Windows,
 
-		CD Documents\CoderDojo\FinchPython120\
+		CD Documents\\CoderDojo\\FinchPython120\\
 
 	Or for Mac OSX
 
