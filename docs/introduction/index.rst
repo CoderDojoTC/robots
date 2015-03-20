@@ -11,6 +11,8 @@ of the Finch robot.
 
    Finch robot hardware diagram, with sensors labeled.  Taken from the `official hardware description`_
 
+.. _finch-sensors-description:
+
 ===================
 The Finch's sensors
 ===================
