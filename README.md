@@ -1,2 +1,2 @@
-# robots
-Finch robots group at CoderDojoTC.
+# Robots
+Robots group at CoderDojoTC.
