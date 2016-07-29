@@ -42,7 +42,7 @@ First, click on the right sprite.  This will bring up the script for this sprite
 right side of your screen.  Start as we usually do by dragging the "When <Flag> clicked"
 block into the script area.
 
-.. image:: /scratch/images/when_flag_clicked.png
+.. image:: ../../../images/when_flag_clicked.png
    :alt: Scratch script with single event
 
 Next, find the "forever" loop block from the "Control" category.  Drag this into your script

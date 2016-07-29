@@ -84,7 +84,7 @@ require using the obstacle sensors.  If you are unfamiliar with this, see :ref:`
 First, let's add a "When <flag> clicked" block to our script.  Then drag a "forever" loop block
 from the "Control" category and connect it to the bottom of the "When <flag> clicked" block.
 
-.. image:: /scratch/images/when_flag_forever.png
+.. image:: ../../../images/when_flag_forever.png
    :alt: Scratch program to loop forever when flag clicked
 
 Now let's think about what we want our program to do.  Sometimes it can be helpful to write

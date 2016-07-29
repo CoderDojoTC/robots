@@ -6,7 +6,7 @@ This page describes the Finch robot hardware, at a high level.  At the end
 of this lesson, you should be able to answer questions about the capabilities 
 of the Finch robot.
 
-.. figure:: /images/finch_hardware_diagram.png
+.. figure:: ../images/finch_hardware_diagram.png
    :alt: Finch robot hardware diagram
 
    Finch robot hardware diagram, with sensors labeled.  Taken from the `official hardware description`_

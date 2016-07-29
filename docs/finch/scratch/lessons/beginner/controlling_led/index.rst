@@ -14,7 +14,7 @@ The first step is to drag an event from the "Events" block group into the script
 event will tell Scratch when to start our program.  For now, we will use the event that is
 triggered when the green flag icon is clicked.
 
-.. image:: /scratch/images/when_flag_clicked.png
+.. image:: ../../../images/when_flag_clicked.png
    :alt: Scratch script with single event
 
 Now we can connect blocks to the bottom of the "When <Flag> clicked" block, and those blocks
